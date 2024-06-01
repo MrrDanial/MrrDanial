@@ -5,10 +5,8 @@
 </div>
 
 ### :man_technologist: My name is Dan.
-I am a backend developer
-- :zap: I’m working as a backend developer for 6+ years and good in this. Mostly it's work with frontend and backend in web applications. 3 years of JS/TS web automation.
-
-- :telescope: In my free time, I learning Node.js, making little projects for fun.
+I am a frontend developer
+- :zap: I’m working as a frontend developer for 2+ years and good in this.
 
 - :mailbox: How to reach me:
 
